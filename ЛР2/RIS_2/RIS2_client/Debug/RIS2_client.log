@@ -1,0 +1,4 @@
+﻿  Client.cpp
+D:\учеба\РИС\Лабораторные\ЛР2\RIS_2\RIS2_client\Client.cpp(45,10): warning C4101: obuf: неиспользованная локальная переменная
+D:\учеба\РИС\Лабораторные\ЛР2\RIS_2\RIS2_client\Client.cpp(47,10): warning C4101: buffer: неиспользованная локальная переменная
+  RIS2_client.vcxproj -> D:\учеба\РИС\Лабораторные\ЛР2\RIS_2\RIS_2\Debug\RIS2_client.exe

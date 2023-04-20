@@ -1,0 +1,3 @@
+D:\GitHub\6_Sem_RIS\labs\lab2\RIS_2\RIS_2\Debug\RIS_2.exe
+D:\учеба\солянка\РИС\Новая папка\6_Sem_RIS-main\labs\lab2\RIS_2\RIS_2\Debug\RIS_2.exe
+D:\учеба\РИС\Лабораторные\ЛР2\RIS_2\RIS_2\Debug\Server.exe

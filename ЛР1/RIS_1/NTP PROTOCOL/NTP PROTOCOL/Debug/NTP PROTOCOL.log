@@ -1,0 +1,7 @@
+﻿  NTP PROTOCOL.cpp
+D:\учеба\РИС\Лабораторные\ЛР1\RIS_1\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(47,18): warning C4307: "*": переполнение целой константы со знаком
+D:\учеба\РИС\Лабораторные\ЛР1\RIS_1\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(64,20): warning C4309: =: усечение константного значения
+D:\учеба\РИС\Лабораторные\ЛР1\RIS_1\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(85,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\учеба\РИС\Лабораторные\ЛР1\RIS_1\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(126,24): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\учеба\РИС\Лабораторные\ЛР1\RIS_1\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(126,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  NTP PROTOCOL.vcxproj -> D:\учеба\РИС\Лабораторные\ЛР1\RIS_1\NTP PROTOCOL\Debug\NTP PROTOCOL.exe

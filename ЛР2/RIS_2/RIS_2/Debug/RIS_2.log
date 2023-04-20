@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (RIS_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Server.cpp
+  RIS_2.vcxproj -> D:\учеба\РИС\Лабораторные\ЛР2\RIS_2\RIS_2\Debug\Server.exe

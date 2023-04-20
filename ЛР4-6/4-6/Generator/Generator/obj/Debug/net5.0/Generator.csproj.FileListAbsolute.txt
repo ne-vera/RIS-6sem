@@ -1,0 +1,126 @@
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.exe
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.dll.config
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.deps.json
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.runtimeconfig.json
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.runtimeconfig.dev.json
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\ref\Generator.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Generator.pdb
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\EntityFramework.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.CodeDom.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\DatabaseClasses.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Models.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\DatabaseClasses.pdb
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\bin\Debug\net5.0\Models.pdb
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.AssemblyReference.cache
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.AssemblyInfoInputs.cache
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.AssemblyInfo.cs
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.CoreCompileInputs.cache
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.CopyComplete
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\ref\Generator.dll
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.pdb
+D:\Labs\2 sem\RIS\4-6\Generator\Generator\obj\Debug\net5.0\Generator.genruntimeconfig.cache
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.exe
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.dll.config
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.deps.json
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.runtimeconfig.json
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.runtimeconfig.dev.json
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\ref\Generator.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Generator.pdb
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\EntityFramework.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.CodeDom.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\DatabaseClasses.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Models.dll
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\DatabaseClasses.pdb
+D:\Рабочий стол\4-6\Generator\Generator\bin\Debug\net5.0\Models.pdb
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.AssemblyReference.cache
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.AssemblyInfoInputs.cache
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.AssemblyInfo.cs
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.CopyComplete
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.dll
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\ref\Generator.dll
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.pdb
+D:\Рабочий стол\4-6\Generator\Generator\obj\Debug\net5.0\Generator.genruntimeconfig.cache
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.exe
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.dll.config
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.deps.json
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.runtimeconfig.json
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.runtimeconfig.dev.json
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Generator.pdb
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\EntityFramework.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.CodeDom.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\DatabaseClasses.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Models.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\DatabaseClasses.pdb
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\bin\Debug\net5.0\Models.pdb
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.AssemblyReference.cache
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.AssemblyInfoInputs.cache
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.AssemblyInfo.cs
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.CoreCompileInputs.cache
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.csproj.CopyComplete
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\refint\Generator.dll
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.pdb
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\Generator.genruntimeconfig.cache
+D:\учеба\РИС\Лабораторные\ЛР4-6\4-6\Generator\Generator\obj\Debug\net5.0\ref\Generator.dll
